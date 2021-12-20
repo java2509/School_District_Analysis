@@ -12,7 +12,8 @@ Results:
 ![image](https://user-images.githubusercontent.com/93900628/146718754-125197ee-1be9-411b-b626-4ed7da688eee.png)
 
 - How is the school summary affected?
-Before
+
+  Before
 
 - ![image](https://user-images.githubusercontent.com/93900628/146718923-f2e83687-0bf3-44c6-adb2-4c8dc2802cc6.png)
 
