@@ -14,8 +14,8 @@ Results:
 - How is the school summary affected?
 
   Before
-
-![image](https://user-images.githubusercontent.com/93900628/146718923-f2e83687-0bf3-44c6-adb2-4c8dc2802cc6.png)
+  
+![Screen Shot 2021-12-19 at 11 58 28 PM](https://user-images.githubusercontent.com/93900628/146719450-896ac748-0067-4c4d-a1b7-c858605a9679.png)
 
    After
   
