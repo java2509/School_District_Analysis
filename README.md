@@ -9,8 +9,14 @@ Maria a data scientist has been tasked to analyze standardized math and reading 
 Results:
 
 - How is the district summary affected?
-![image](https://user-images.githubusercontent.com/93900628/146718754-125197ee-1be9-411b-b626-4ed7da688eee.png)- How is the school summary affected?
+![image](https://user-images.githubusercontent.com/93900628/146718754-125197ee-1be9-411b-b626-4ed7da688eee.png)
 
+- How is the school summary affected?
+Before
+
+- ![image](https://user-images.githubusercontent.com/93900628/146718923-f2e83687-0bf3-44c6-adb2-4c8dc2802cc6.png)
+
+After
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - 
 - How does replacing the ninth-grade scores affect the following:
