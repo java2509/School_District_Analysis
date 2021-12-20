@@ -1,8 +1,8 @@
-# school_district_analysis
+##### school_district_analysis
 
-##Overview of the school district analysis
+# Overview of the school district analysis
 
-Purpose
+### Purpose
 Maria a data scientist has been tasked to analyze standardized math and reading test score data to show trends in school performance in the district.Other factors that are considered along with scores are school size,school type and budget per student. The results will be used to determine futurestrategic decisions in regards to school budgets
 
 
